@@ -1,4 +1,5 @@
 # Road-Accident-Analysis
+This project analyzes road accident data to identify patterns, risk factors, and trends that can help improve road safety and reduce accidents.
 
 # Project Overview
 This project analyzes a large-scale road accident dataset to uncover patterns, trends, and key factors contributing to accident frequency and severity. The goal is to generate actionable insights that can support road safety improvements and data-driven decision-making.
