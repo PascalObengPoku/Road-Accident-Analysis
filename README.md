@@ -14,7 +14,8 @@ The dataset was cleaned and preprocessed using Python to ensure accuracy and con
 # Tools & Technologies
 Python (Pandas, NumPy)
 Matplotlib / Seaborn (for exploratory analysis)
-Tableau 
+Exponential Smoothing
+Prophet
 
 # Data Analysis
 Exploratory data analysis (EDA) was conducted to answer key questions:
@@ -24,7 +25,7 @@ What factors contribute to accident severity?
 How do weather, lighting, and road conditions affect accidents?
 
 # Visualization
-An interactive Tableau dashboard was developed to present insights:
+A graphical representation was developed to present insights:
 Accident trends by year and month
 Geographic distribution of accidents
 Severity analysis (Fatal, Serious, Slight)
