@@ -246,6 +246,9 @@ While most accidents are minor, **fatalities remain significant and preventable*
 - Accident Trend Over Years
 ![Accident Trend Over Years](https://github.com/PascalObengPoku/Road-Accident-Analysis/blob/main/visualization/Accident%20Trend%20Over%20Years.png)
 
+- Accident Trend by Day of Week
+![Accident by Day of Week](https://github.com/PascalObengPoku/Road-Accident-Analysis/blob/main/visualization/Casualties%20by%20Day%20of%20Week.png)
+
 ## Conclusion
 
 This analysis reveals that road accidents are less about extreme conditions and more about everyday driving exposure and human behavior. The highest risks emerge not in unusual scenarios, but in routine environments—urban roads, moderate speeds, and peak commuting hours.
