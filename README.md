@@ -240,6 +240,9 @@ While most accidents are minor, **fatalities remain significant and preventable*
 - Accident Severity Distribution
 ![Accident Severity Distribution](https://github.com/PascalObengPoku/Road-Accident-Analysis/blob/main/visualization/Accident%20Severity%20Distribution.png)
 
+- Accident Trend Over Months
+![Accident Trend Over Months](https://github.com/PascalObengPoku/Road-Accident-Analysis/blob/main/visualization/Accident%20Trend%20Over%20Months.png)
+
 
 ## Conclusion
 
