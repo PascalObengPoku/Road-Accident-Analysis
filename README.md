@@ -243,6 +243,8 @@ While most accidents are minor, **fatalities remain significant and preventable*
 - Accident Trend Over Months
 ![Accident Trend Over Months](https://github.com/PascalObengPoku/Road-Accident-Analysis/blob/main/visualization/Accident%20Trend%20Over%20Months.png)
 
+- Accident Trend Over Years
+![Accident Trend Over Years](https://github.com/PascalObengPoku/Road-Accident-Analysis/blob/main/visualization/Accident%20Trend%20Over%20Years.png)
 
 ## Conclusion
 
