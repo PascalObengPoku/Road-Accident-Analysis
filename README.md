@@ -290,9 +290,12 @@ Ultimately, this project demonstrates how data can be leveraged not just to unde
 
 ## Author
 Pascal Obeng-Poku
+
 Data Analyst
 
 
 __Github__: http//:github.com/PascalObengPoku
+
 __Linkedin__: http//:linkedin.com/in/PascalObengPoku
+
 __Email__: pascalobengpoku [at] gmail [dot] com
