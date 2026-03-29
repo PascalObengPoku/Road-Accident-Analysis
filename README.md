@@ -27,7 +27,7 @@ Peak risk periods: **evenings**, **Fridays**, and **Oct–Nov**
 * Bradford – 3,006
 * Westminster – 2,811
 
-**Insight:**
+**Implication:**
 Urban centers dominate accident occurrences due to **high traffic density and congestion**.
 
 ---
@@ -39,7 +39,7 @@ Urban centers dominate accident occurrences due to **high traffic density and co
 * **2021:** 163,554 accidents
 * **2022:** 144,419 accidents
 
-**Insight:**
+**Implication:**
 A noticeable decline in 2022 suggests **improved policies or behavioral changes**.
 
 ---
@@ -50,7 +50,7 @@ A noticeable decline in 2022 suggests **improved policies or behavioral changes*
 * October – 28,368
 * July – 26,953
 
-**Insight:**
+**Implication:**
 Late-year peaks (Oct–Nov) may be driven by:
 
 * Reduced daylight
@@ -65,7 +65,7 @@ Late-year peaks (Oct–Nov) may be driven by:
 * Tuesday & Wednesday – consistently high
 * Sunday – lowest
 
-**Insight:**
+**Implication:**
 **End-of-week fatigue + increased movement = higher accident risk**
 
 ---
@@ -78,7 +78,7 @@ Late-year peaks (Oct–Nov) may be driven by:
 * 17:30 – 3,616
 * 15:30 – 3,578
 
-**Insight:**
+**Implication:**
 Accidents peak during **rush hours (3 PM – 6 PM)**.
 
 ### High-Casualty Events
@@ -98,7 +98,7 @@ Common during:
 * Vans – 21,298
 * Motorcycles – significant share
 
-**Insight:**
+**Implication:**
 
 * Cars contribute most due to volume
 * Motorcycles show **higher relative risk exposure**
@@ -112,7 +112,7 @@ Common during:
 * Fine weather – 330,311
 * Rain – 49,082
 
-**Insight:**
+**Implication:**
 Most accidents occur in good weather due to:
 
 * Higher traffic volume
@@ -125,7 +125,7 @@ Most accidents occur in good weather due to:
 * Dry – 279,445
 * Wet/Damp – 114,697
 
-**Insight:**
+**Implication:**
 Wet roads significantly **increase severity**, even if less frequent.
 
 ---
@@ -135,7 +135,7 @@ Wet roads significantly **increase severity**, even if less frequent.
 * Daylight – 304,963
 * Darkness (lit) – 82,167
 
-**Insight:**
+**Implication:**
 Higher daylight accidents reflect **activity levels**, not necessarily higher danger.
 
 ---
@@ -145,7 +145,7 @@ Higher daylight accidents reflect **activity levels**, not necessarily higher da
 * Urban – 255,864
 * Rural – 162,019
 
-**Insight:**
+**Implication:**
 Urban areas dominate due to:
 
 * Intersections
@@ -159,7 +159,7 @@ Urban areas dominate due to:
 * 60 mph – 71,402
 * 70 mph – 35,034
 
-💡 **Insight:**
+💡 **Implication:**
 Most accidents occur in **low-speed zones**, reinforcing **urban driving risks**.
 
 ---
@@ -170,7 +170,7 @@ Most accidents occur in **low-speed zones**, reinforcing **urban driving risks**
 * Serious – 59,312
 * Fatal – 7,135
 
-**Insight:**
+**Implication:**
 While most accidents are minor, **fatalities remain significant and preventable**.
 
 ---
