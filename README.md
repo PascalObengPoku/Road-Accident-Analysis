@@ -6,6 +6,33 @@ This project analyzes road accident data from **2021–2022**, uncovering key pa
 
 ---
 
+## Methodology
+This project follows a structured data analysis workflow to ensure accurate insights and reproducibility:
+
+### Data Collection
+Sourced road accident data for 2021–2022 included variables such as:
+
+- Accident severity
+- Location (district, urban/rural)
+- Time (hour, day, month, year)
+- Weather, light, and road conditions
+- Vehicle types and speed limits
+
+  
+### Data Cleaning & Preparation
+- Removed duplicates and handled missing values
+- Converted date/time fields into usable formats
+- Handled inconsistent values
+- Month & seasonal groupings
+- 
+### Exploratory Data Analysis (EDA)
+- Analyzed distributions and trends across:
+- Time (year, month, day, hour)
+- Geography (district-level insights)
+- Environment (weather, road, lighting)
+- Identified high-risk clusters and anomalies
+- Compared accident severity across different conditions
+
 ## Executive Summary
 
 - **307,973** total accidents analyzed
@@ -261,3 +288,11 @@ By focusing on urban congestion, rush-hour dynamics, seasonal spikes, and driver
 Ultimately, this project demonstrates how data can be leveraged not just to understand past incidents, but to inform smarter policies, improve infrastructure, and save lives at scale.
 
 
+## Author
+Pascal Obeng-Poku
+Data Analyst
+
+
+__Github__: http//:github.com/PascalObengPoku
+__Linkedin__: http//:linkedin.com/in/PascalObengPoku
+__Email__: pascalobengpoku [at] gmail [dot] com
