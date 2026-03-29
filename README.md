@@ -6,16 +6,6 @@ This project analyzes road accident data from **2021–2022**, uncovering key pa
 
 ---
 
-## Project Value
-
-This project demonstrates:
-
-* Strong data analysis and storytelling
-* Ability to extract actionable insights
-* Real-world problem-solving using data
-
----
-
 ## Executive Summary
 
 **307,973** total accidents analyzed
