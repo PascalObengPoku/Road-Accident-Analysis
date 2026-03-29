@@ -238,12 +238,12 @@ While most accidents are minor, **fatalities remain significant and preventable*
 
 ## Conclusion
 
-* Accidents are driven more by **traffic exposure** than extreme conditions
-* **Urban areas, rush hours, and late-year months** are key risk zones
-* Data-driven interventions can significantly reduce:
+This analysis reveals that road accidents are less about extreme conditions and more about everyday driving exposure and human behavior. The highest risks emerge not in unusual scenarios, but in routine environments—urban roads, moderate speeds, and peak commuting hours.
 
-  * Accident frequency
-  * Severity
-  * Fatalities
+While the majority of accidents are slight, the consistent presence of serious and fatal incidents highlights a critical gap in preventive measures. Patterns across time, location, and conditions point to a clear opportunity: targeted, data-driven interventions can significantly reduce both frequency and severity.
+
+By focusing on urban congestion, rush-hour dynamics, seasonal spikes, and driver behavior, stakeholders can move from reactive responses to proactive safety strategies.
+
+Ultimately, this project demonstrates how data can be leveraged not just to understand past incidents, but to inform smarter policies, improve infrastructure, and save lives at scale.
 
 
