@@ -8,17 +8,17 @@ This project analyzes road accident data from **2021–2022**, uncovering key pa
 
 ## Executive Summary
 
-**307,973** total accidents analyzed
+- **307,973** total accidents analyzed
 
-**563,302** vehicles involved
+- **563,302** vehicles involved
 
-**417,883** total casualties
+- **417,883** total casualties
 
-**85%** of accidents are *slight severity*
+- **85%** of accidents are *slight severity*
 
-Accidents are concentrated in **urban areas**, **daylight**, and **dry road conditions**
+- Accidents are concentrated in **urban areas**, **daylight**, and **dry road conditions**
 
-Peak risk periods: **evenings**, **Fridays**, and **Oct–Nov**
+- Peak risk periods: **evenings**, **Fridays**, and **Oct–Nov**
 
 ---
 
